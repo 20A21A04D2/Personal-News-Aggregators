@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Replace with your Render backend URL
 const API = axios.create({ 
-  baseURL: "https://personal-news-aggregator.onrender.com/api" 
+  baseURL: "https://personal-news-aggregators.onrender.com/api" 
 });
 
 
