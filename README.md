@@ -90,7 +90,7 @@ Ensure you have the following installed:
 ---
 
 ## 🚀 Live Demo
-Check out the deployed version: [Live Demo](<your-live-demo-link>)
+Check out the deployed version: [Live Demo](<https://personal-news-aggregators.vercel.app/>)
 
 ---
 
